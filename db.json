@@ -1,0 +1,34 @@
+{
+  "interest": [
+    {
+      "fullname": "Leanne Graha",
+      "email": "nirali123@gmail.com",
+      "gender": "female",
+      "tags": [
+        "Vue Js",
+        "React Js"
+      ],
+      "id": 1
+    },
+    {
+      "id": 2,
+      "fullname": "john dohh",
+      "email": "john@gmail.com",
+      "gender": "male",
+      "tags": [
+        "React",
+        "Node.JS"
+      ]
+    },
+    {
+      "id": 3,
+      "fullname": "john dohh",
+      "email": "john@gmail.com",
+      "gender": "male",
+      "tags": [
+        "Node.JS",
+        ".Net"
+      ]
+    }
+  ]
+}
